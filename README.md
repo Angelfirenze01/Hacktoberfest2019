@@ -1,7 +1,7 @@
 
 ![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
 
-# Happy Coding Fellas !
+# Happy Coding Ladies and Fellas !
 
 * When the **Hacktoberfest19** comes to an end , I will be distributing some free Open Source **t-shirts** to a few contributors
 
